@@ -1,3 +1,38 @@
 body {
-  background-color: hotpink;
+  background-image: url("https://i.natgeofe.com/n/a3771a84-7942-46aa-91d1-34a92798164e/441327270_c09052f51c_b-1_16x9.jpg");
+  background-size: inherit;
+  background-repeat: no-repeat;
+}
+
+#mcdonalds {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 10px solid red;
+  text-align: center;
+  margin: 20px 150px;
+  padding: 5px 350px;
+  background-color: rgba(98, 95, 95, 0.4);
+}
+
+#burgerKing {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 50px groove blue;
+  text-align: center;
+  margin: 20px 150px;
+  padding: 5px 350px;
+  background-color: rgba(98, 95, 95, 0.4);
+}
+
+#wendys {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 70px double yellow;
+  text-align: center;
+  margin: 20px 150px;
+background-color: rgba(98, 95, 95, 0.4);
+  padding: 5px 350px;
+
+}
+
+h2 {
+  text-shadow: 1px 1px whitesmoke;
+  font-weight: bold;
 }
